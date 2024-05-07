@@ -10,6 +10,6 @@
 
 ---
 
-![photo1](image/Screenshot(358).png)
+![photo1](img/Screenshot(358).png)
 
 ---
